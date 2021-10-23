@@ -3343,6 +3343,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
 .cart-preview__btn_continue {
   padding: 0;
+  white-space: normal;
 }
 
 .footer {
