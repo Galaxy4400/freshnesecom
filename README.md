@@ -1,4 +1,4 @@
-# Сайт для портфолио №5
+# Сайт для портфолио №6
 
 Ссылка на главную страницу: https://galaxy4400.github.io/freshnesecom/ <br>
 Ссылка на страницу каталога: https://galaxy4400.github.io/freshnesecom/catalog.html <br>
